@@ -6,5 +6,6 @@ Before reinstalling Windows or Office, it's smart to back up your license:
 4. After reinstall, replace the new `Token.dat` with your backup (same folder).
 5. Restart your PC.
 > **Note:** This only works if reinstalling on the same hardware.
-backup-office-license
+---
+[Read more](https://github.com/winoff-master/)
 ---
